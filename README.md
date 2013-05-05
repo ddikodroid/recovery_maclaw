@@ -4,6 +4,8 @@ Sources of this software are available under GPL licence.
 
 MaclawRecovery
 ==============
+Codename: Teddybear
+
 MaclawStudio's recovery
 
 We want to introduce to you our new project.
